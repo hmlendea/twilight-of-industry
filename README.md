@@ -3,7 +3,7 @@
 
 # Twilight of Industry
 
-Twilight of Industry is an AI-assisted worldbuilding repository that chronicles a long-form speculative timeline, from a non-industrial 2026 baseline to deep-future civilisational transformations across Terra, Luna, Mars, Titan, and extra-solar branches.
+Twilight of Industry is a long-form AI-assisted speculative history of humanity after a world that never underwent a normal Industrial Revolution. It follows the rise of a mature non-industrial civilisation, the First Breaking that removed the IRF dawning the Industrial Age, the Second Breaking that brought the IRF back dawning the Dark Age, and the millenia-long struggle to rebuild society across Terra, Luna, Mars, Titan, and beyond under shifting IRF constraints. At its core, the story is about continuity versus acceleration: how civilisations survive collapse, negotiate power, preserve knowledge, and attempt interworld diplomacy across extreme timescales.
 
 ## 📑 Table of Contents
 
