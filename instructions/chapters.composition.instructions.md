@@ -27,4 +27,5 @@ applyTo: "chapters/**/*.md"
   - a final major-project status recap.
 - Each chapter must end with a `Next chapter` navigation line that links to the subsequent chapter file.
 - Use this exact format for the final line in the file: `Next chapter: [<next chapter label>](<next chapter filename>.md)`.
-- Keep that `Next chapter` line as the final non-empty line in the chapter.
+- The line immediately before `Next chapter` must be a horizontal separator line: `---`.
+- Keep the `Next chapter` line as the final non-empty line in the chapter.
