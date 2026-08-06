@@ -33,42 +33,42 @@ Read the project as a chronological worldbuilding archive.
 
 Start with [chapters/2026.md](./chapters/2026.md), then proceed through later files in temporal order.
 
-- [chapters/2026.md](./chapters/2026.md)
-- [chapters/2200.md](./chapters/2200.md)
-- [chapters/2500.md](./chapters/2500.md)
-- [chapters/3000.md](./chapters/3000.md)
-- [chapters/4000.md](./chapters/4000.md)
-- [chapters/5000.md](./chapters/5000.md)
-- [chapters/10000.md](./chapters/10000.md)
-- [chapters/40000.md](./chapters/40000.md)
-- [chapters/45372-53837.md](./chapters/45372-53837.md)
-- [chapters/100000.md](./chapters/100000.md)
-- [chapters/100011-100100.md](./chapters/100011-100100.md)
-- [chapters/100100-100350.md](./chapters/100100-100350.md)
-- [chapters/101000.md](./chapters/101000.md)
-- [chapters/101247-101379.md](./chapters/101247-101379.md)
-- [chapters/101379-102480.md](./chapters/101379-102480.md)
-- [chapters/110000.md](./chapters/110000.md)
-- [chapters/113110-115610.md](./chapters/113110-115610.md)
-- [chapters/115610-116610.md](./chapters/115610-116610.md)
-- [chapters/116610-117110.md](./chapters/116610-117110.md)
-- [chapters/117110-117140.md](./chapters/117110-117140.md)
-- [chapters/117140-117160.md](./chapters/117140-117160.md)
-- [chapters/117160-117260.md](./chapters/117160-117260.md)
-- [chapters/117260-117400.md](./chapters/117260-117400.md)
-- [chapters/117400-117500.md](./chapters/117400-117500.md)
-- [chapters/117500-117600.md](./chapters/117500-117600.md)
-- [chapters/117600-117700.md](./chapters/117600-117700.md)
-- [chapters/117700-117800.md](./chapters/117700-117800.md)
-- [chapters/117800-117900.md](./chapters/117800-117900.md)
-- [chapters/117900-118000.md](./chapters/117900-118000.md)
-- [chapters/118000-118100.md](./chapters/118000-118100.md)
-- [chapters/118100-118200.md](./chapters/118100-118200.md)
-- [chapters/118200-118300.md](./chapters/118200-118300.md)
-- [chapters/118300-118400.md](./chapters/118300-118400.md)
-- [chapters/118400-118450.md](./chapters/118400-118450.md)
-- [chapters/118450-118500.md](./chapters/118450-118500.md)
-- [chapters/118500-118550.md](./chapters/118500-118550.md)
+- [chapters/2026.md](./chapters/2026.md) - A World Without Industrialisation
+- [chapters/2200.md](./chapters/2200.md) - Year 2200
+- [chapters/2500.md](./chapters/2500.md) - Human Intellectual Maturity
+- [chapters/3000.md](./chapters/3000.md) - Scientific Progress Slows
+- [chapters/4000.md](./chapters/4000.md) - Progress Almost Stops
+- [chapters/5000.md](./chapters/5000.md) - The Pace of History
+- [chapters/10000.md](./chapters/10000.md) - Civilisation Itself Becomes Ancient
+- [chapters/40000.md](./chapters/40000.md) - Time Almost Loses Its Meaning
+- [chapters/45372-53837.md](./chapters/45372-53837.md) - The Deep Equilibrium
+- [chapters/100000.md](./chapters/100000.md) - Civilization Becomes an Ecosystem
+- [chapters/100011-100100.md](./chapters/100011-100100.md) - The Hidden Rule
+- [chapters/100100-100350.md](./chapters/100100-100350.md) - The Third Generation
+- [chapters/101000.md](./chapters/101000.md) - Year 101,000
+- [chapters/101247-101379.md](./chapters/101247-101379.md) - The Second Breaking
+- [chapters/101379-102480.md](./chapters/101379-102480.md) - The Return of the IRF
+- [chapters/110000.md](./chapters/110000.md) - A New Equilibrium
+- [chapters/113110-115610.md](./chapters/113110-115610.md) - The First Thinning
+- [chapters/115610-116610.md](./chapters/115610-116610.md) - The First Resonance Wave
+- [chapters/116610-117110.md](./chapters/116610-117110.md) - The Five Centuries Before the Unification War
+- [chapters/117110-117140.md](./chapters/117110-117140.md) - The Opening of the Unification War
+- [chapters/117140-117160.md](./chapters/117140-117160.md) - The End of the Unification War
+- [chapters/117160-117260.md](./chapters/117160-117260.md) - After the War
+- [chapters/117260-117400.md](./chapters/117260-117400.md) - The Age of Equalisation
+- [chapters/117400-117500.md](./chapters/117400-117500.md) - The Century of Redundancy
+- [chapters/117500-117600.md](./chapters/117500-117600.md) - The Century of Continuity
+- [chapters/117600-117700.md](./chapters/117600-117700.md) - The Century of Recovery and Rivalry
+- [chapters/117700-117800.md](./chapters/117700-117800.md) - The Century of Reclamation
+- [chapters/117800-117900.md](./chapters/117800-117900.md) - The Century of Convergence
+- [chapters/117900-118000.md](./chapters/117900-118000.md) - The Century of Chosen Futures
+- [chapters/118000-118100.md](./chapters/118000-118100.md) - The Century of Worlds
+- [chapters/118100-118200.md](./chapters/118100-118200.md) - The Second Resonance Century
+- [chapters/118200-118300.md](./chapters/118200-118300.md) - The Century of the Missing Generation
+- [chapters/118300-118400.md](./chapters/118300-118400.md) - The Century of Distant Approaches
+- [chapters/118400-118450.md](./chapters/118400-118450.md) - The Half-Century of Union and Famine
+- [chapters/118450-118500.md](./chapters/118450-118500.md) - The Half-Century of Standards, Embassies, and Broken Frontiers
+- [chapters/118500-118550.md](./chapters/118500-118550.md) - The Half-Century of Couriers, Compacts, and Capacity Limits
 
 Use [ROADMAP.md](./ROADMAP.md) to review unresolved future events and continuity targets when authoring new chapters.
 
