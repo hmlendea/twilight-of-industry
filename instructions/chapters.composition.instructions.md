@@ -25,3 +25,6 @@ applyTo: "chapters/**/*.md"
   - world-by-world status blocks (population, change, sovereignty, IRF, life expectancy, living standards, major developments);
   - optional `Newly practical` capability notes per world where relevant;
   - a final major-project status recap.
+- Each chapter must end with a `Next chapter` navigation line that links to the subsequent chapter file.
+- Use this exact format for the final line in the file: `Next chapter: [<next chapter label>](<next chapter filename>.md)`.
+- Keep that `Next chapter` line as the final non-empty line in the chapter.
