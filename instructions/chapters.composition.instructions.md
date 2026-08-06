@@ -21,6 +21,12 @@ applyTo: "chapters/**/*.md"
   - policy or technical details;
   - constraints and trade-offs.
 - Keep terminology and named programmes consistent across the whole chapter.
+- Aim for approximately 2,000 lines of chapter content per file.
+- For this length target, do not count:
+  - the YAML frontmatter header block;
+  - the chapter title markdown header line (`# <year or range> — <opening label>`);
+  - the navigation footer block at the end (`---` and the `Next chapter: ...` line).
+- Treat the length target as a planning objective rather than a strict limit; broadly ±10% around 2,000 content lines is acceptable when required by narrative coherence.
 - Conclude with an end-of-period synthesis section containing:
   - world-by-world status blocks (population, change, sovereignty, IRF, life expectancy, living standards, major developments);
   - optional `Newly practical` capability notes per world where relevant;
@@ -29,3 +35,4 @@ applyTo: "chapters/**/*.md"
 - Use this exact format for the final line in the file: `Next chapter: [<next chapter label>](<next chapter filename>.md)`.
 - The line immediately before `Next chapter` must be a horizontal separator line: `---`.
 - Keep the `Next chapter` line as the final non-empty line in the chapter.
+- Whenever a new chapter file is added, update the `Reading Sequence` section in `README.md` in the same change.

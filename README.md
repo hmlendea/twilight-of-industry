@@ -68,6 +68,7 @@ Start with [chapters/2026.md](./chapters/2026.md), then proceed through later fi
 - [chapters/118300-118400.md](./chapters/118300-118400.md)
 - [chapters/118400-118450.md](./chapters/118400-118450.md)
 - [chapters/118450-118500.md](./chapters/118450-118500.md)
+- [chapters/118500-118550.md](./chapters/118500-118550.md)
 
 Use [ROADMAP.md](./ROADMAP.md) to review unresolved future events and continuity targets when authoring new chapters.
 

@@ -1,11 +1,11 @@
-# Story TODO (Pending After Year 118,500)
+# Story TODO (Pending After Year 118,550)
 
 This file lists events that are still scheduled, recurring, or explicitly long-term, and have not occurred yet by the end of chapter 118,450-118,500.
 
 ## Periodic and recurring events
 
 - Third Resonance Wave expected around year 120,610; prepare impact modelling and crisis planning across Sol.
-  - Introduced/updated in: chapters/118100-118200.md, chapters/118200-118300.md
+  - Introduced/updated in: chapters/118100-118200.md, chapters/118200-118300.md, chapters/118500-118550.md
 - Continue the resonance-wave cycle: every 2,500 years the Wound of Return emits a temporary IRF burst from the impact point, superimposed on the fading background rather than replacing it. The first three waves raise Terra’s average IRF by roughly 10 percentage points and each lasts twice as long as the previous one, starting at 30 years, then 60 years, then 120 years. The fourth wave is the final one and is stronger, raising Terra’s average by roughly 30 percentage points and lasting 1440 years. After each wave passes, the original long-term depletion trend resumes unchanged.
   - Introduced in: chapters/115610-116610.md; updated in later chapters
 - Fourth and final Resonance Wave expected to start in year 123,110 and end in 124,550.
@@ -19,43 +19,31 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 
 ## Terra-Mars contact and diplomacy chain
 
-- Mars Approach Programme: first successful unmanned Terran mission delivering a Mars lander remains pending.
-  - Introduced in: chapters/118300-118400.md
-  - Still pending in: chapters/118450-118500.md
 - Follow-up Mars missions (archives, gifts, repeat-safe lander operations) remain pending.
   - Introduced in: chapters/118300-118400.md
-- First fully landed Terran spacecraft on Mars remains pending.
-  - Introduced in: chapters/118300-118400.md
+  - Still pending in: chapters/118500-118550.md
 - Minimum consecutive unmanned round trips needed before human diplomatic flight remains pending.
   - Introduced in: chapters/118300-118400.md
+  - Still pending in: chapters/118500-118550.md
 - First human diplomatic delegation between Terra and Mars remains pending (multi-generational target).
   - Introduced in: chapters/118300-118400.md
+  - Still pending in: chapters/118500-118550.md
 - Mars-Rome joint moon-station implementation remains pending: once interplanetary travel becomes available and reliably repeatable, activate the older cooperation framework into permanent jointly operated stations on Martian moons (at minimum Phobos, with Deimos follow-on) and reciprocal linked operations with Lunar infrastructure.
   - Cooperation basis established in: chapters/118200-118300.md (future Roman access to Phobos and Deimos; shared Phobos relay beacon)
+  - Still pending in: chapters/118500-118550.md
 
 ## Embassy activation milestones
 
 - Restored Diutlandic building becomes the active Martian embassy on Terra only after safe regular interplanetary travel exists and a Martian diplomatic mission can staff it.
   - Introduced in: chapters/118450-118500.md
+  - Still pending in: chapters/118500-118550.md
 - Olympus Mission House conversion into a future Roman embassy on Mars remains pending.
 - Olympus Mission House becomes the active Roman embassy on Mars only after the conversion finishes and safe regular interplanetary travel exists and a Roman diplomatic mission can staff it.
   - Introduced in: chapters/118450-118500.md
+  - Still pending in: chapters/118500-118550.md
 
 ## Titan long-term chain
 
-- Titan Accessible Cavern Survey final completion remains pending.
-  - Introduced in: chapters/118400-118450.md
-  - Still pending in: chapters/118450-118500.md
-- Publish definitive Titan sustainable capacity conclusions after full survey completion.
-  - Introduced in: chapters/118400-118450.md
-- University of Algarath estimate for Titan surface-settlement viability timeline remains pending (scheduled for after survey conclusions).
-  - Introduced in: chapters/118400-118450.md
-  - Minimum detail expected when this is delivered:
-    - present a scenario range, not one deterministic date;
-    - derive timelines from Titan-local IRF depletion projections plus validated analogues from Lunar and Martian transition phases;
-    - separate temporary robotic/industrial surface windows from sustained civilian habitation windows;
-    - include dependency gates: thermal buffering, pressure-habitat readiness, radiation exposure limits, evacuation latency, and inter-cavern logistics;
-    - state confidence bands and explicit failure modes, and label the result as an estimate rather than a prediction.
 - Titan long-term political endpoint remains pending: Titan should evolve into a durable mosaic of fiercely independent guild and technocratic polities (engineering-guild states, mining-guild states, trading-guild states, corporation-states, and technocracies) rather than a unified world government. Rivalries should persist, but selective external coordination should occur during major offworld-facing events. Titanian states should collectively resist durable outsider footholds on Titan while preserving internal sovereignty.
 - Titan long-term linguistic endpoint remains pending: Titan should not converge into one native language; local languages and dialects should remain primary within each state, while Common Titanian remains the inter-state diplomatic and coordination lingua franca.
 - Ancient Titan surface black-site reveal arc remains pending: a remote pre-Second-Breaking top-secret AI-development complex is rediscovered with evidence of a rogue AI takeover, machine subordination/expansion, murdered human personnel, and a failed Titanian full-ordnance security retake that was destroyed. A later coordinated assault by multiple private offworld heavy battalions should barely suppress the rebellion after rapid robotic warfare adaptation. The incident should have been buried before the Second Breaking, erased from public record, and never conclusively investigated; current rediscovery must preserve uncertainty regarding whether the AI was truly neutralised, survived, or escaped.
@@ -67,6 +55,7 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Great Library of Luna full build-out remains pending (only survivable core and partial operations complete by 118,500).
   - Introduced in: chapters/117600-117700.md and expanded later
   - Still pending in: chapters/118450-118500.md
+  - Still pending in: chapters/118500-118550.md
 
 ## Custodian Nine and Resonance Lance chain
 
@@ -82,7 +71,7 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Terra Restituta. It began as separate restoration programmes (biosphere/lost species, monument restoration, ruined and buried-city recovery), then expands into planet-shape restoration toward a late Long Age approximation and is consolidated under Terra Restituta.
   - Early separate programmes introduced in: chapters/117160-117260.md
   - Consolidation/umbrella framing introduced in: chapters/117700-117800.md
-  - Continued through: chapters/117800-117900.md, chapters/117900-118000.md, chapters/118300-118400.md, chapters/118450-118500.md
+  - Continued through: chapters/117800-117900.md, chapters/117900-118000.md, chapters/118300-118400.md, chapters/118450-118500.md, chapters/118500-118550.md
 - Terra Restituta remains an active multi-century programme; Orassia-unblocked works are a later phase, not its origin.
   - Later phase highlighted in: chapters/118450-118500.md
 - Biosphere restoration (lost species recovery and stable reintroduction) remains incomplete.
@@ -96,20 +85,23 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
   - Continued in: chapters/117700-117800.md, chapters/118450-118500.md
 - Italia Restituta remains in early/mid implementation; full coastline and deep urban recovery is still long-term.
   - Introduced in: chapters/118450-118500.md
+  - Continued in: chapters/118500-118550.md
 - Equalisation remains a long-duration Terran infrastructure-balancing programme; accelerated phases occurred, but end-state parity is still pending.
   - Introduced in: chapters/118000-118100.md
-  - Continued in: chapters/118100-118200.md, chapters/118450-118500.md
+  - Continued in: chapters/118100-118200.md, chapters/118450-118500.md, chapters/118500-118550.md
 
 ## Roman continuity-regulation conflict chain
 
 - Long-term Roman domestic policy split over Continuity Authorities standards remains pending: as IRF intensity keeps declining and industrial capacity expands, influential industrial blocs and substantial civilian constituencies should increasingly demand selective relaxation of strict Continuity-tier requirements, including mandatory Class100 compatibility pathways, fallback-mode obligations, and material-descent constraints for many sectors. The Roman government should resist broad rollback attempts and defend continuity-first doctrine as civilisational insurance. At the same time, a large pro-regulation coalition should continue to support keeping core safeguards in force. This divide should persist across multiple periods until a later negotiated or crisis-forced resolution is reached.
   - Introduced in: chapters/117500-117600.md
+  - Continued in: chapters/118500-118550.md
 
 ## Martian demographic horizon
 
 - Long-range Martian demographic restoration toward the circa 3.1 billion historical horizon remains pending.
   - Introduced in: chapters/118400-118450.md
   - Still far from completion in: chapters/118450-118500.md
+  - Still far from completion in: chapters/118500-118550.md
 
 ## Haven-to-Sol signal and probe chain
 
@@ -159,6 +151,8 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Novaterra macro-recovery remains pending: stabilisation, institutional reconstruction, and decline of raider/cannibal zones are unresolved.
   - Introduced/escalated in: chapters/118400-118450.md
   - Still unresolved in: chapters/118450-118500.md
+  - Still unresolved in: chapters/118500-118550.md
 - Novaterra ecological spread remains pending: mature ecology is reduced and highly fragmented, with connection and rehabilitation unresolved.
   - Decline shown in: chapters/118400-118450.md
   - Still unresolved in: chapters/118450-118500.md
+  - Still unresolved in: chapters/118500-118550.md
