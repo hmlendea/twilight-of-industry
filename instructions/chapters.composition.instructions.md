@@ -8,7 +8,23 @@ applyTo: "chapters/**/*.md"
 - After frontmatter, start with a level-1 heading in the format `# <year or range> — <opening label>`.
 - In displayed chapter text, format years as follows: do not use a thousands separator for 4-digit years (for example `2026`), and use comma grouping for 5+ digit years (for example `10,000`, `117,260`).
 - Open the chapter body with a concise baseline snapshot section that establishes starting conditions.
-- Use a world-status table early in the chapter for population, sovereignty, and IRF context when relevant.
+- Use a world-state table immediately after the baseline snapshot opening paragraphs.
+- Standardise the world-state table to this exact column structure and order:
+  - `World`
+  - `Population`
+  - `Sovereignty Pattern`
+  - `Energy Basis`
+  - `IRF State`
+- Use standard Markdown table formatting exactly as follows:
+  - Header row with the five columns above.
+  - Alignment separator row `| --- | --- | --- | --- | --- |`.
+  - One data row per world covered in the chapter baseline context.
+- Standardise value formatting in world-state rows:
+  - `World`: title-case world name (for example `Terra`, `Luna`, `Mars`, `Europa`, `Titan`, `Haven`).
+  - `Population`: approximate numeric form with a leading tilde and scale word (for example `~600 million`, `~11.2 billion`).
+  - `Sovereignty Pattern`: concise political-structure phrase in sentence case without terminal punctuation.
+  - `Energy Basis`: comma-separated list of dominant energy sources in sentence case.
+  - `IRF State`: concise field-condition statement in sentence case; a semicolon may be used to separate state and effect.
 - Keep the main narrative in chronological order.
 - Structure chronological entries as level-2 headings using one of these patterns:
   - `## <day> <month> <year> — <event label>`
@@ -22,13 +38,14 @@ applyTo: "chapters/**/*.md"
   - policy or technical details;
   - constraints and trade-offs.
 - Keep terminology and named programmes consistent across the whole chapter.
+- Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
 - Whenever generating a place name is required, consider selecting one from: `https://raw.githubusercontent.com/hmlendea/stellaris-ui-star-names/refs/heads/master/ui-star-names/common/random_names/base/ui_stars_zzz_made-up.txt`.
-- Aim for approximately 2,000 lines of chapter content per file.
+- Target approximately 75 content lines per year of the covered chapter period.
 - For this length target, do not count:
   - the YAML frontmatter header block;
   - the chapter title markdown header line (`# <year or range> — <opening label>`);
   - the navigation footer block at the end (`---`, the `Previous chapter: ...` line, and the `Next chapter: ...` line).
-- Treat the length target as a planning objective rather than a strict limit; broadly ±10% around 2,000 content lines is acceptable when required by narrative coherence.
+- Treat the length target as a planning objective rather than a strict limit, while maintaining these absolute bounds: minimum 350 content lines per chapter and maximum 3,000 content lines per chapter.
 - Conclude with an end-of-period synthesis section containing:
   - world-by-world status blocks (population, change, sovereignty, IRF, life expectancy, living standards, major developments);
   - optional `Newly practical` capability notes per world where relevant;

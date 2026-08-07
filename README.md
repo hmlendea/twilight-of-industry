@@ -36,6 +36,7 @@ Proceed in chronological order:
 
 | Period | Chapter | Summary |
 |--------|---------|---------|
+| 1700 | [The Pre-Industrial Ceiling](./chapters/1700.md) | Humanity approaches a hidden practical ceiling as the unrecognised IRF suppresses mechanisation. |
 | 2026 | [A World Without Industrialisation](./chapters/2026.md) | Introduces a non-industrial Terra where progress, population, and systems diverge. |
 | 2200 | [Year 2200](./chapters/2200.md) | Shows early divergence becoming visible, with measurable advances over 2026. |
 | 2500 | [Human Intellectual Maturity](./chapters/2500.md) | Human knowledge deepens, yet industrial-scale energy and manufacturing remain unreachable. |
