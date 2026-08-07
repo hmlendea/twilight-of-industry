@@ -37,6 +37,7 @@ applyTo: "chapters/**/*.md"
   - effects and consequences;
   - policy or technical details;
   - constraints and trade-offs.
+- Do not split a normal prose sentence across multiple lines, blank lines, or single-item bullet lists merely for emphasis. If the content reads as one sentence, keep it as one sentence in a paragraph. Use a bullet list only for a genuine multi-item list.
 - Keep terminology and named programmes consistent across the whole chapter.
 - Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
 - Whenever generating a place name is required, consider selecting one from: `https://raw.githubusercontent.com/hmlendea/stellaris-ui-star-names/refs/heads/master/ui-star-names/common/random_names/base/ui_stars_zzz_made-up.txt`.
