@@ -49,12 +49,12 @@ applyTo: "chapters/**/*.md"
 - Keep terminology and named programmes consistent across the whole chapter.
 - Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
 - Whenever generating a place name is required, consider selecting one from: `https://raw.githubusercontent.com/hmlendea/stellaris-ui-star-names/refs/heads/master/ui-star-names/common/random_names/base/ui_stars_zzz_made-up.txt`.
-- Target approximately 75 content lines per year of the covered chapter period.
+- Target approximately 1000 characters of content per year of the covered chapter period.
 - For this length target, do not count:
   - the YAML frontmatter header block;
   - the chapter title markdown header line (`# <year or range> — <opening label>`);
   - the navigation footer block at the end (`---`, the `Previous chapter: ...` line, and the `Next chapter: ...` line).
-- Treat the length target as a planning objective rather than a strict limit, while maintaining these absolute bounds: minimum 350 content lines per chapter and maximum 3,000 content lines per chapter.
+- Treat the length target as a planning objective rather than a strict limit, while maintaining these absolute bounds: minimum 5000 characters of content per chapter and maximum 60,000 characters of content per chapter.
 - Conclude with an end-of-period synthesis section containing:
   - world-by-world status blocks (population, change, sovereignty, IRF, life expectancy, living standards, major developments);
   - optional `Newly practical` capability notes per world where relevant;

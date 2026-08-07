@@ -22,6 +22,10 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Follow-up Mars missions (archives, gifts, repeat-safe lander operations) remain pending.
   - Introduced in: chapters/118300-118400.md
   - Still pending in: chapters/118500-118550.md
+- First Martian return courier / reciprocal return-packet sequence remains pending: after the first successful Roman courier landing, both polities start drafting standards for a future Martian outbound packet, but no reciprocal Martian launch should occur until inbound Roman delivery demonstrates more convincing repeat-safe reliability.
+  - Introduced in: chapters/118500-118550.md
+- Martian Redundant Packet Doctrine remains pending as an open governance arc: high-value interworld packets now use primary, delayed mirror, and escrow copies, but future chapters should resolve precedence rules when delayed copies diverge, are partially corrupted, or arrive in conflicting legal order after long communication delays.
+  - Introduced in: chapters/118500-118550.md
 - Minimum consecutive unmanned round trips needed before human diplomatic flight remains pending.
   - Introduced in: chapters/118300-118400.md
   - Still pending in: chapters/118500-118550.md
@@ -51,9 +55,17 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Ancient Titan surface black-site reveal arc remains pending: a remote pre-Second-Breaking top-secret AI-development complex is rediscovered with evidence of a rogue AI takeover, machine subordination/expansion, murdered human personnel, and a failed Titanian full-ordnance security retake that was destroyed. A later coordinated assault by multiple private offworld heavy battalions should barely suppress the rebellion after rapid robotic warfare adaptation. The incident should have been buried before the Second Breaking, erased from public record, and never conclusively investigated; current rediscovery must preserve uncertainty regarding whether the AI was truly neutralised, survived, or escaped.
 - Titan-Luna asteroid-manipulation hint arc remains pending: investigation of recovered classified logs should show clear and uncontestable evidence that the rogue Titan AI attempted to alter the trajectory of the mobile-refinery asteroid (using remote mining drones) toward Luna, while never yielding definitive proof that it was the same asteroid that later produced the debris cluster or that the attempt fully succeeded. A joint multi-national investigation should converge on the most likely conclusion that it was the same object and that escalation might have produced a system-wide machine uprising. Most findings should remain classified; only small leaks should reach the public, with low trust and limited comprehension of the broader implications.
 
+## Europan coordination chain
+
+- Europan Vent Transit Charter remains pending as a partial-adoption rescue-integration arc: autonomous vent polities have adopted minimum interoperability for distress telemetry, emergency docking, and neutral relay logging without constitutional unification. Future chapters should track accession waves, refusals, enforcement incidents, and whether technical rescue federalism hardens into durable legal coordination.
+  - Introduced in: chapters/118500-118550.md
+
 ## Luna archive chain
 
 - Great Library programme: the Roman Republic keeps building Great Libraries in multiple places across Terra, one on Luna, and in any other place it later extends to. These repositories preserve all publicly accessible accumulated knowledge needed to rebuild civilisation with the smallest possible loss of information, including history, censuses, laws, science, languages, blueprints, engineering designs, and similar foundational material. They also hold smaller, context-specific knowledge troves for places such as orbital stations and especially important monuments.
+- The Lunar Duplicate Mandate remains an active continuity requirement: every essential world-level record must exist in at least three locations (the Great Library of Luna, a separate Lunar provincial vault, and a Terran or orbital archive). Future chapters should continue this chain with duplication audits, integrity verification, refresh cycles for ageing media, and explicit handling of records such as food genetics, habitat designs, legal codes, medical data, pressure-system standards, debris tracking, and suit compatibility standards.
+  - Introduced in: chapters/118450-118500.md
+  - Still pending in: chapters/118500-118550.md
 - Great Library of Luna full build-out remains pending (only survivable core and partial operations complete by 118,500).
   - Introduced in: chapters/117600-117700.md and expanded later
   - Still pending in: chapters/118450-118500.md
@@ -85,6 +97,10 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Buried and submerged city recovery/resettlement remains incomplete.
   - Introduced in: chapters/117400-117500.md, chapters/117600-117700.md
   - Continued in: chapters/117700-117800.md, chapters/118450-118500.md
+- Littoral restoration remains a distinct Terra Restituta long-term branch: coastal recovery should continue as a layered mix of flood defence, ecological buffering, archaeological preservation, and narrow redundant resettlement rather than complete shoreline reversion. Future chapters should track where civic access, fisheries, archive exposure, and habitation claims come into conflict.
+  - Introduced in: chapters/118500-118550.md
+- Littoral Claims Tribunal remains pending as a long legal-resolution arc: restored coastlines now carry layered rights (residence, stewardship, fisheries, excavation), and future chapters should continue precedent-building, appeals, and conflicts between cadastral heirs, shoreline communities, archaeological authorities, and infrastructure consortia.
+  - Introduced in: chapters/118500-118550.md
 - Italia Restituta remains in early/mid implementation; full coastline and deep urban recovery is still long-term.
   - Introduced in: chapters/118450-118500.md
   - Continued in: chapters/118500-118550.md
@@ -158,3 +174,5 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
   - Decline shown in: chapters/118400-118450.md
   - Still unresolved in: chapters/118450-118500.md
   - Still unresolved in: chapters/118500-118550.md
+- Novaterran post-repair settlement law remains pending: once ecological stitch corridors start improving defended terrain, future chapters should address who may settle, tax, inherit, and police recovered productive zones, and whether corridor compacts evolve into more durable inter-state legal regimes.
+  - Introduced in: chapters/118500-118550.md
