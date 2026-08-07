@@ -26,6 +26,8 @@ applyTo: "chapters/**/*.md"
   - `Energy Basis`: comma-separated list of dominant energy sources in sentence case.
   - `IRF State`: concise field-condition statement in sentence case; a semicolon may be used to separate state and effect.
 - Keep the main narrative in chronological order.
+- Keep subsection flow chronological as well: within each section, order level-3 subheadings and their prose from earlier to later dates.
+- Do not place a later-dated subsection before an earlier-dated subsection unless the heading explicitly marks it as retrospective context.
 - Structure chronological entries as level-2 headings using one of these patterns:
   - `## <day> <month> <year> — <event label>`
   - `## <year> — <event label>`
