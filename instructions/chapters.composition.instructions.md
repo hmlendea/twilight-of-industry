@@ -6,6 +6,7 @@ applyTo: "chapters/**/*.md"
 ## Chapter Composition Rules
 
 - After frontmatter, start with a level-1 heading in the format `# <year or range> — <opening label>`.
+- In displayed chapter text, format years as follows: do not use a thousands separator for 4-digit years (for example `2026`), and use comma grouping for 5+ digit years (for example `10,000`, `117,260`).
 - Open the chapter body with a concise baseline snapshot section that establishes starting conditions.
 - Use a world-status table early in the chapter for population, sovereignty, and IRF context when relevant.
 - Keep the main narrative in chronological order.
@@ -38,4 +39,3 @@ applyTo: "chapters/**/*.md"
   - `Next chapter: [<next chapter label>](<next chapter filename>.md)`
 - The line immediately before `Previous chapter` must be a horizontal separator line: `---`.
 - Keep the `Next chapter` line as the final non-empty line in the chapter.
-- Whenever a new chapter file is added, update the `Reading Sequence` section in `README.md` in the same change.

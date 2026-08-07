@@ -8,6 +8,7 @@ Apply these files:
 - `instructions/chapters.composition.instructions.md`
 - `instructions/chapters.events.instructions.md`
 - `instructions/chapters.roadmap.instructions.md`
+- `instructions/readme.instructions.md`
 
 Guidance:
 
