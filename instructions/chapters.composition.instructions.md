@@ -37,6 +37,12 @@ applyTo: "chapters/**/*.md"
   - effects and consequences;
   - policy or technical details;
   - constraints and trade-offs.
+- Write section and subsection prose as proper paragraphs in a wiki-like style.
+- For normal narrative prose, use multi-sentence paragraphs (typically 2-5 sentences) that develop one coherent idea.
+- Do not write extended runs of one-sentence paragraphs in section bodies.
+- Use a one-sentence paragraph only as a rare rhetorical exception for emphasis, transition, or final synthesis.
+- When several consecutive sentences concern the same topic, merge them into one paragraph instead of separating each sentence with a blank line.
+- Reserve line-by-line separation for genuine structural boundaries (new argument, new time step, or new subsection), not for visual pacing.
 - Do not split a normal prose sentence across multiple lines, blank lines, or single-item bullet lists merely for emphasis. If the content reads as one sentence, keep it as one sentence in a paragraph. Use a bullet list only for a genuine multi-item list.
 - Keep terminology and named programmes consistent across the whole chapter.
 - Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
