@@ -123,6 +123,8 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 
 ## Haven-to-Sol signal and probe chain
 
+- Sol-Haven/Harbour no-contact continuity remains pending: until the SSLI signal and probe contact milestones occur, Sol institutions must not possess direct Haven or Harbour awareness of existence, communication, records, constitutional models, legal packets, machine-advice governance artefacts, or authenticated transmissions.
+  - Constraint reaffirmed in: chapters/28500-28550.md
 - Earliest SSLI signal arrival at Sol (~30,333) remains pending.
   - Introduced in: chapters/28100-28200.md
   - Reconfirmed in: chapters/28200-28300.md
@@ -166,6 +168,10 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 
 ## Novaterra recovery chain
 
+- Harbour-Novaterra no-contact continuity remains pending: until an explicit interstellar contact event is written, Harbour/Haven and Novaterra must remain mutually unknown, with no direct awareness of each other's existence and no exchanged communications, records, telemetry, legal packets, or cultural/governance artefacts.
+  - Constraint reaffirmed in: chapters/28500-28550.md
+- Sol-Novaterra no-contact continuity remains pending: until an explicit first-contact event is written, Sol institutions (including Roman, Lunar, Martian, Europan, and Titanian) must not possess direct Novaterran communication, records, telemetry, legal packets, or failure analyses. Future chapters should preserve strict informational separation and only transition this rule after a clearly dated contact pathway is established.
+  - Constraint reaffirmed in: chapters/28500-28550.md
 - Novaterra macro-recovery remains pending: stabilisation, institutional reconstruction, and decline of raider/cannibal zones are unresolved.
   - Introduced/escalated in: chapters/28400-28450.md
   - Still unresolved in: chapters/28450-28500.md
