@@ -38,6 +38,14 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Cross-planet corporate expansion and Mars terraformation-interference arc remains pending: once routine Terra-Mars travel normalises across multiple generations, corporations from Terra and Mars should slowly establish reciprocal long-term operations on each other’s worlds (initially logistics and research, then extraction, fabrication, and infrastructure services). Much later, a major Roman corporation operating on Mars should deploy an aggressive industrial optimisation programme near a sensitive terraformation district and unintentionally destabilise critical local terraformation control equipment. Planetary-scale terraformation trajectories should remain effectively unchanged, but the local district should face severe atmospheric-control disruption, infrastructure losses, and political outrage. The crisis should be resolved without armed conflict through a prolonged Mars-Rome joint technical inquiry, compulsory Roman-funded remediation, criminal and civil sanctions on responsible executives, and a new bilateral protected-zones framework that hard-limits private industrial activity near critical terraformation systems.
   - Introduced in: chapters/28500-28550.md
 
+## Interplanetary Piracy and Orbital-Planetary Tension Chain
+
+- Space-lane piracy emergence remains pending: only after long-range civilian spaceflight becomes routine and station networks become dense, small-scale cargo predation should begin and then expand gradually.
+- Slow-growth threat curve remains pending: piracy should intensify over multiple periods through incremental adaptation (false transponder chains, contract-escort corruption, dockside intelligence markets, and salvage-law abuse), not by abrupt system-wide insurgency.
+- Orbital-generation versus planetary governance tension remains pending: as space-born societies mature across stations and transit habitats, political and cultural friction with planetary governments should deepen regarding jurisdiction, taxation, security authority, and legal identity.
+- Infrastructure precondition remains mandatory: this arc must not begin materially before far-distance travel is straightforward and numerous civilian stations operate across major routes.
+- Indefinite continuity remains pending: the conflict should persist without final settlement, alternating between calmer and high-tension cycles while never fully disappearing until a later explicit resolution is authored.
+
 ## Embassy activation milestones
 
 - Restored Diutlandic building becomes the active Martian embassy on Terra only after safe regular interplanetary travel exists and a Martian diplomatic mission can staff it.
@@ -113,6 +121,29 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Long-term Roman domestic policy split over Continuity Authorities standards remains pending: as IRF intensity keeps declining and industrial capacity expands, influential industrial blocs and substantial civilian constituencies should increasingly demand selective relaxation of strict Continuity-tier requirements, including mandatory Class100 compatibility pathways, fallback-mode obligations, and material-descent constraints for many sectors. The Roman government should resist broad rollback attempts and defend continuity-first doctrine as civilisational insurance. At the same time, a large pro-regulation coalition should continue to support keeping core safeguards in force. This divide should persist across multiple periods until a later negotiated or crisis-forced resolution is reached.
   - Introduced in: chapters/27500-27600.md
   - Continued in: chapters/28500-28550.md
+- Roman continuity middle-ground settlement remains pending: under sustained political and industrial pressure, Rome should eventually replace uniform non-survival fallback obligations with a stratified regime tied to strategic importance.
+- Continuity Classification Committee remains pending: create a carefully selected cross-domain committee (continuity engineering, logistics, medicine, law, manufacturing, civic risk modelling, and emergency administration) to classify all technology-using sectors into three fallback categories.
+- Three-tier fallback framework remains pending:
+  - Primary sectors: strategically indispensable and survival-critical sectors; must retain the strictest fallback resilience obligations.
+  - Secondary sectors: higher-technology variants of primary systems, or sectors that materially increase production capacity, speed, and recovery efficiency; important but not strictly indispensable if primary systems remain functional.
+  - Tertiary sectors: luxury, tourism, entertainment, and other non-essential sectors that improve quality of life but are societally deferrable under crisis conditions.
+- Policy objective remains pending: enable innovation and high-technology gains while preserving civilisational safety under abrupt IRF re-escalation and other systemic disaster scenarios.
+
+## Roman Internal Autonomy Debate Chain
+
+- Long-term Roman internal autonomy-pressure arc remains pending: over multiple periods, selected Republic regions should increasingly demand wider self-government, fiscal discretion, and legal-administrative autonomy while remaining nominally inside Roman sovereignty.
+- Central-resistance dynamic remains pending: Roman central institutions should resist broad fragmentation and preserve cohesion doctrine, continuity standards, and shared strategic command.
+- Senate division remains pending: the Roman Senate should remain materially split, with one bloc defending tighter central authority and another bloc supporting conditional autonomy compacts under enforceable constitutional safeguards.
+- Multi-period escalation path remains pending: future chapters should progress this as a prolonged political-legal sequence (petitions, regional charters, constitutional hearings, limited concessions, reversals, and renewed bargaining), not as a single rupture event.
+- End-state remains intentionally open: long-horizon stabilisation should eventually occur either through a revised autonomy settlement (new status quo) or through reaffirmation of the prior central framework (old status quo), with both outcomes remaining narratively viable until later resolution.
+
+## Roman Institutional Erosion and Civil-Conflict Risk Chain
+
+- Leadership-driven institutional erosion arc remains pending: across multiple periods, selected Roman leaders should advance inefficient, corrupt, or extreme policy agendas that cumulatively weaken administrative competence and public legitimacy.
+- Social-trust degradation path remains pending: recurring governance failures should gradually erode inter-regional trust, civic confidence in the Senate, and confidence that Republic membership yields net advantages for ordinary citizens.
+- Cohesion-versus-benefit fracture remains pending: future chapters should track when major constituencies begin to judge the Republic as providing more disadvantages than benefits, creating durable anti-centre political coalitions.
+- Slow-burn escalation requirement remains pending: this deterioration should unfold incrementally through scandals, procurement abuse, selective enforcement, patronage capture, crisis mismanagement, and punitive overreach rather than abrupt systemic collapse.
+- Turning-point crisis remains pending: the arc should eventually reach a high-tension inflection where the Republic sits on the brink of large-scale rebellion and possible civil conflict, with de-escalation and escalation both remaining plausible until later resolution.
 
 ## Martian demographic horizon
 
@@ -121,10 +152,30 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
   - Still far from completion in: chapters/28450-28500.md
   - Still far from completion in: chapters/28500-28550.md
 
+## Martian Religious-Cultural Arc
+
+- Martian Dream sacralisation arc remains pending: the Dream should gradually acquire a religious aura across multiple periods, with clear continuity from Long Night survival culture rather than a sudden ideological origin after year 28,550.
+  - Future chapters should show that this tendency has older roots in settlement memory, mutual-aid rites, and survival liturgies before formal centralisation.
+- Martian Christianity consolidation remains pending: most self-identified faithful Martians are Christian, but expression should continue to vary by descent lineage from surviving settlements, with regional rites, calendars, and local interpretive traditions persisting during unification.
+- Official pan-Martian church formation remains pending: create a recognised ecclesial institution that unifies the major Martian Christian branches around the shared civic-religious ideal of the Martian Dream.
+  - The institution should frame terraformation as a sacred civilisational mission oriented toward building a Martian garden of Eden.
+- Interplanetary Christian leadership visit cycle remains pending: once Terra-Mars travel becomes routine and the unified Martian church has stable institutional legitimacy, periodic reciprocal visits should occur between major Christian heads of faith on both worlds.
+  - Visits should include synods, public liturgies, doctrinal colloquia, and symbolic pilgrimage events tied to Martian Dream and Eden themes.
+- Terran conservative-recognition conflict remains pending: selected conservative Terran Christian branches should reject the Martian church as canonically illegitimate, despite diplomatic and ceremonial exchange.
+- Long-duration confessional tension remains pending: this legitimacy dispute should generate recurring animosity, contested communion boundaries, polemical publications, and intermittent civic-political friction across generations rather than a rapid settlement.
+- Eden-centred doctrine development remains pending: Eden should become the central symbolic and theological motif of the unified Martian church, linking restoration, stewardship, and intergenerational duty.
+- Science-faith synthesis doctrine remains pending: Martian Christianity should explicitly treat scientific inquiry as a valid mode of understanding and following divine work, grounded in Long Night survival experience where science and faith were jointly indispensable.
+  - The unified doctrine should be explicitly non-creationist and evolution-affirming.
+- Olympus Mons National Salvation Cathedral arc remains pending: a monumental cathedral named National Salvation Cathedral should be planned and built on Olympus Mons as a multi-generational project.
+  - Construction duration must exceed one century from formal foundation to consecration.
+  - Future chapters should stage this through extended phases (charter, design disputes, funding cycles, engineering setbacks, partial openings, and delayed final consecration), not a compressed build.
+
 ## Haven-to-Sol signal and probe chain
 
 - Sol-Haven/Harbour no-contact continuity remains pending: until the SSLI signal and probe contact milestones occur, Sol institutions must not possess direct Haven or Harbour awareness of existence, communication, records, constitutional models, legal packets, machine-advice governance artefacts, or authenticated transmissions.
   - Constraint reaffirmed in: chapters/28500-28550.md
+- IRF-arrival due window for Harbour/Haven remains pending: based on the Harbour IRF modelling in year 28,071, serious industrial disruption is projected to begin approximately in years 29,871-30,671.
+  - Model introduced in: chapters/28000-28100.md
 - Earliest SSLI signal arrival at Sol (~30,333) remains pending.
   - Introduced in: chapters/28100-28200.md
   - Reconfirmed in: chapters/28200-28300.md
