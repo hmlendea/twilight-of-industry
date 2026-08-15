@@ -227,6 +227,9 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
   - Introduced/escalated in: chapters/28400-28450.md
   - Still unresolved in: chapters/28450-28500.md
   - Still unresolved in: chapters/28500-28550.md
+- Novaterra irreversible-loss continuity remains pending: throughout recovery, future chapters must make the catastrophe's enduring losses explicit and measurable rather than imply a return to the pre-collapse baseline. Track the permanent reduction of population; genetic, crop, domesticated-animal, ecological, linguistic, and cultural diversity; archives, scientific and technical knowledge, specialist competence, institutions, settlements, infrastructure, and historical continuity. Reconstruction may recover fragments or create substitutes, but erased lives, extinct lineages, destroyed cultures, and unrecoverable knowledge remain absent, and later prosperity must retain visible demographic, ecological, cultural, and epistemic scars.
+  - Catastrophe established in: chapters/28400-28450.md
+  - Continuing aftermath in: chapters/28450-28500.md and chapters/28500-28550.md
 - Novaterra ecological spread remains pending: mature ecology is reduced and highly fragmented, with connection and rehabilitation unresolved.
   - Decline shown in: chapters/28400-28450.md
   - Still unresolved in: chapters/28450-28500.md
