@@ -115,6 +115,27 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Equalisation remains a long-duration Terran infrastructure-balancing programme; accelerated phases occurred, but end-state parity is still pending.
   - Introduced in: chapters/28000-28100.md
   - Continued in: chapters/28100-28200.md, chapters/28450-28500.md, chapters/28500-28550.md
+- **MANDATORY: Terra Restituta Progress Report must be completed and published by Rome in one of the two chapters following 28,550.** The comprehensive report should assess and document:
+  - Geographic restoration progress: land reclaimed, coastlines restored, submerged cities recovered, water systems redirected, major landscape reshaping completed;
+  - Ecological status: species recovery success rates, gene diversity compared to late Long Age baseline, ecosystem stability, biodiversity metrics;
+  - Comparison to past eras: detailed quantitative and qualitative analysis of Terra's current state versus late Industrial Age (circa 27,100) and late Long Age (circa 10,000), emphasizing geographic similarity, ecological similarity, genetic diversity, overall planetary health, long-term civilisational sustainability, and resource-hosting capacity;
+  - Resource inventory: nonrenewable resource availability and depletion rates, renewable resource status, strategic material reserves;
+  - Ongoing major projects: Terra Restituta subprogrammes status (biosphere, monuments, littoral, cities, river systems), Italia Restituta progress, ecosystem corridors, reintroduction programmes;
+  - Future end-goal vision: long-term planetary vision for completed restoration, expected timeline, challenges, and what Terra will resemble when the programme reaches its defined end-state;
+  - Capacity assessment: Terra's ability to host sustained human civilisation long-term and its resilience for post-apocalyptic recovery should a future catastrophic event occur.
+  - Report framework: structured as a formal Roman Senate-approved scientific and policy document, with executive summary, technical annexes, cartographic evidence, and comparative data tables.
+  - **Introduced in: chapters/28500-28550.md (as planning/commission)**
+  - **Must be authored/completed in: one of chapters after 28,550 (MANDATORY)**
+- **MANDATORY: Green Transition and Natural Resources Preservation Doctrine must be adopted by Rome in the same chapter or immediately following the Terra Restituta Report.** This strategic policy shift establishes:
+  - Core principle: deliberate preservation and rationing of nonrenewable resources as a long-term continuity safeguard for future post-catastrophic recovery;
+  - Rationale: even with Terra Restituta's environmental restoration, future civilisations recovering from an apocalyptic scenario should have access to strategic nonrenewable resources (metals, fossil fuels, rare minerals, nuclear materials) rather than finding them fully depleted;
+  - Integration with Continuity Doctrine: the policy becomes an explicit component of the multicentury Redundancy/Continuity doctrine that began after the Unification War, elevating resource stewardship to a civilisational survival priority alongside technological fallback planning;
+  - Implementation framework: establish resource preservation zones, mining restrictions, strategic reserves, intergenerational resource governance, and long-term depletion forecasting;
+  - Civilisational framing: this shifts Roman ideology from "restore and use" toward "restore and preserve for unknown futures," explicitly planning for scenarios where Rome's heirs or post-collapse survivors must rebuild without modern knowledge or capacity;
+  - Senate adoption mechanism: Senate debate, adoption as formal doctrine, and binding legal framework (not merely advisory);
+  - Long-term governance: creation or expansion of existing continuity institutions to oversee resource stewardship across centuries;
+  - **Introduced in: one of chapters after 28,550 (MANDATORY)**
+  - **Must be formally adopted/legislated in: one of the two chapters following 28,550 (MANDATORY)**
 
 ## Roman continuity-regulation conflict chain
 
