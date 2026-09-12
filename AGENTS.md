@@ -1,13 +1,15 @@
 # Repository Instructions
 
-This repository keeps project-specific instructions in the `instructions/` directory.
+This repository keeps project-specific instructions in the [instructions](instructions/) directory.
 
 Apply these files:
-- `instructions/chapters.header.instructions.md`
-- `instructions/chapters.composition.instructions.md`
-- `instructions/chapters.events.instructions.md`
-- `instructions/chapters.roadmap.instructions.md`
-- `instructions/readme.instructions.md`
+- [instructions/chapters.header.instructions.md](instructions/chapters.header.instructions.md)
+- [instructions/chapters.composition.instructions.md](instructions/chapters.composition.instructions.md)
+- [instructions/chapters.events.instructions.md](instructions/chapters.events.instructions.md)
+- [instructions/chapters.life-expectancy.instructions.md](instructions/chapters.life-expectancy.instructions.md)
+- [instructions/chapters.population.instructions.md](instructions/chapters.population.instructions.md)
+- [instructions/chapters.roadmap.instructions.md](instructions/chapters.roadmap.instructions.md)
+- [instructions/readme.instructions.md](instructions/readme.instructions.md)
 
 Guidance:
 - Treat these files as the canonical source for chapter writing and edits.
