@@ -72,7 +72,7 @@ Proceed in chronological order:
 | 28,400 - 28,450 | [The Half-Century of Union and Famine](./chapters/28400-28450.md) | Union advances while famine devastates Novaterra during systemic transition. |
 | 28,450 - 28,500 | [The Half-Century of Standards, Embassies, and Broken Frontiers](./chapters/28450-28500.md) | Standards and diplomacy progress as fractured frontiers persist elsewhere. |
 | 28,500 - 28,550 | [The Half-Century of Couriers, Compacts, and Capacity Limits](./chapters/28500-28550.md) | Courier breakthroughs and capacity limits redefine coordination across distant worlds. |
-| 28,550 - 28,575 | [Reclaimed Coasts and Managed Access](./chapters/28550-28575.md) | Restoration doctrine, planetary packet law, and narrow ecological recovery reshape the Solar System. |
+| 28,550 - 28,575 | [Reclaimed Coasts and Managed Access](./chapters/28550-28575.md) | Restoration doctrine and packet law reshape Sol, while ecological recovery changes the distant extrasolar world of Novaterra. |
 
 Use [ROADMAP.md](./ROADMAP.md) to review unresolved future events and continuity targets when authoring new chapters.
 
