@@ -19,6 +19,7 @@ applyTo: "chapters/**/*.md"
 - For accession events, use the plain form `Roman Accession` unless a more specific Roman-scoped label is explicitly needed.
 - When accession is the event, name the accession itself, not the applying state or person.
 - Prefer `IRF` terminology over generic `Resonance` wording when the event concerns the inertial resonance field.
+- When naming events related to the IRF, reflect both the condition change and its material consequences (for example, prefer `Martian IRF Disruption` over generic `Resonance Event`).
 - Do not use generic event names when a specific scope is known.
 - Avoid process-verb labels such as `begins`, `ends`, or `progresses`; prefer stable noun phrases.
 - Avoid process-style suffixes such as `Expansion`, `Effectiveness`, `Reinstatement`, or `Acceleration` when they merely describe programme status or change over time; prefer the underlying event, policy, or programme name instead.

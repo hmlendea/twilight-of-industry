@@ -48,6 +48,7 @@ applyTo: "chapters/**/*.md"
 - Do not split a normal prose sentence across multiple lines, blank lines, or single-item bullet lists merely for emphasis. If the content reads as one sentence, keep it as one sentence in a paragraph. Use a bullet list only for a genuine multi-item list.
 - Keep terminology and named programmes consistent across the whole chapter.
 - Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
+- When writing narrative content, always consider the local IRF conditions stated in the world-state table and their effects on events, technology, populations, and policies. Ensure all described activities, timelines, and infrastructure are compatible with the IRF state and limitations.
 - Whenever generating a place name is required, consider selecting one from: `https://raw.githubusercontent.com/hmlendea/stellaris-ui-star-names/refs/heads/master/ui-star-names/common/random_names/base/ui_stars_zzz_made-up.txt`.
 - Target approximately 1000 characters of content per year of the covered chapter period.
 - For this length target, do not count:

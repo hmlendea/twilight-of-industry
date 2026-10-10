@@ -15,6 +15,13 @@ applyTo: "chapters/**/*.md"
 - Distinguish residents, citizens, governed populations, associated populations and refugees whenever those categories differ.
 - Match numerical precision to evidence. Use ranges where censuses are incomplete or contact is indirect.
 
+## IRF Integration in Population Modelling
+
+- All population estimates must be compatible with the local IRF state and intensity described in the chapter's world-state table.
+- When IRF conditions change, population capacity changes proportionally. Explicitly document how an IRF shift affects the feasible population range on each world.
+- Under strong or full IRF, sealed worlds (Luna, Mars, Europa, Titan) support smaller populations because transport, agriculture and energy systems operate under greater constraints.
+- Under weak or absent IRF, terrestrial and industrial populations can expand more rapidly due to improved transport, communication and interworld resource distribution.
+
 ## Mandatory Capacity Check
 
 Before increasing a population, verify the chapter provides sufficient capacity in:

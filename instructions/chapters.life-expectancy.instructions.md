@@ -31,6 +31,13 @@ Before assigning or changing life expectancy, evaluate:
 
 An improvement in one category does not eliminate mortality from the others.
 
+## IRF Integration in Life Expectancy
+
+- All life expectancy figures must be compatible with the local IRF state and intensity described in the chapter's world-state table.
+- IRF intensity determines availability of key medical technologies, transport for organ transplants, real-time surgical guidance, pharmaceutical precision and supply-chain reliability.
+- Under stronger IRF, life expectancy gains depend on non-technological factors: sanitation, nutrition, preventive medicine, midwifery and public-health discipline.
+- Under weaker IRF, life expectancy can improve due to expanded medical technology, but distribution inequality and deployment capacity still matter.
+
 ## Medical Capability Thresholds
 
 - Under full-strength IRF, scientific knowledge, sanitation, vaccination, surgery, midwifery and preventive medicine may support high life expectancy, but advanced imaging, precision pharmaceuticals, artificial organs and regenerative medicine remain restricted.
