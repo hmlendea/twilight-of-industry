@@ -21,24 +21,31 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 
 - Follow-up Mars missions (archives, gifts, repeat-safe lander operations) remain pending.
   - Introduced in: chapters/28300-28400.md
+  - **Advanced in: chapters/28550-28575.md** — Six-Mission Reliability Protocol established (2/6 complete); Interplanetary Commercial Tribunal operational; Interplanetary Diplomatic Corps formed
   - Still pending in: chapters/28500-28550.md
 - First Martian return courier / reciprocal return-packet sequence remains pending: after the first successful Roman courier landing, both polities start drafting standards for a future Martian outbound packet, but no reciprocal Martian launch should occur until inbound Roman delivery demonstrates more convincing repeat-safe reliability.
   - Introduced in: chapters/28500-28550.md
+  - **Advanced in: chapters/28550-28575.md** — Martian Receiving Grid Act implemented; Aurelian Review five-packet taxonomy established
 - Martian Redundant Packet Doctrine remains pending as an open governance arc: high-value interworld packets now use primary, delayed mirror, and escrow copies, but future chapters should resolve precedence rules when delayed copies diverge, are partially corrupted, or arrive in conflicting legal order after long communication delays.
   - Introduced in: chapters/28500-28550.md
+  - **Advanced in: chapters/28550-28575.md** — Olympus Mission House legal dispute establishes dual-signature problem; mirrored legal signatures mandated by Roman Mars Access Framework
 - Minimum consecutive unmanned round trips needed before human diplomatic flight remains pending.
   - Introduced in: chapters/28300-28400.md
+  - **Advanced in: chapters/28550-28575.md** — Six-Mission Reliability Protocol defines the threshold (6 consecutive successful Class I/II deliveries)
   - Still pending in: chapters/28500-28550.md
 - First human diplomatic delegation between Terra and Mars remains pending (multi-generational target).
   - Introduced in: chapters/28300-28400.md
+  - **Advanced in: chapters/28550-28575.md** — Interplanetary Diplomatic Corps established with phased immunity model (Phases 1-2 defined)
   - Still pending in: chapters/28500-28550.md
 - Mars-Rome joint moon-station implementation remains pending: once interplanetary travel becomes available and reliably repeatable, activate the older cooperation framework into permanent jointly operated stations on Martian moons (at minimum Phobos, with Deimos follow-on) and reciprocal linked operations with Lunar infrastructure.
   - Cooperation basis established in: chapters/28200-28300.md (future Roman access to Phobos and Deimos; shared Phobos relay beacon)
   - Still pending in: chapters/28500-28550.md
-- Cross-planet corporate expansion and Mars terraformation-interference arc remains pending: once routine Terra-Mars travel normalises across multiple generations, corporations from Terra and Mars should slowly establish reciprocal long-term operations on each other’s worlds (initially logistics and research, then extraction, fabrication, and infrastructure services). Much later, a major Roman corporation operating on Mars should deploy an aggressive industrial optimisation programme near a sensitive terraformation district and unintentionally destabilise critical local terraformation control equipment. Planetary-scale terraformation trajectories should remain effectively unchanged, but the local district should face severe atmospheric-control disruption, infrastructure losses, and political outrage. The crisis should be resolved without armed conflict through a prolonged Mars-Rome joint technical inquiry, compulsory Roman-funded remediation, criminal and civil sanctions on responsible executives, and a new bilateral protected-zones framework that hard-limits private industrial activity near critical terraformation systems.
+- Cross-planet corporate expansion and Mars terraformation-interference arc remains pending: once routine Terra-Mars travel normalises across multiple generations, corporations from Terra and Mars should slowly establish reciprocal long-term operations on each other's worlds (initially logistics and research, then extraction, fabrication, and infrastructure services). Much later, a major Roman corporation operating on Mars should deploy an aggressive industrial optimisation programme near a sensitive terraformation district and unintentionally destabilise critical local terraformation control equipment. Planetary-scale terraformation trajectories should remain effectively unchanged, but the local district should face severe atmospheric-control disruption, infrastructure losses, and political outrage. The crisis should be resolved without armed conflict through a prolonged Mars-Rome joint technical inquiry, compulsory Roman-funded remediation, criminal and civil sanctions on responsible executives, and a new bilateral protected-zones framework that hard-limits private industrial activity near critical terraformation systems.
   - Introduced in: chapters/28500-28550.md
 
-## Interplanetary Piracy and Orbital-Planetary Tension Chain
+- Continue tracking the IRF expansion, saturation, and long-term fading cycle: the expansion begins in year 11,379, grows gradually but steadily, becomes more uniform across the Solar System, and by the closing of the Second Breaking arc it reaches the same pre-industrial intensity across Sol and beyond. The field keeps stretching farther outward more slowly beyond the heliosphere, while the inner regions later thin from the impact location on Terra known as "The Wound of Return" and the local average around Terra gradually weakens again. The field remains physically active and evolving, not settled, and the resonance-wave cycle continues to alter only the temporary overlay on top of the fading background.
+  - Expansion and Solar-System saturation introduced in: chapters/11379-12480.md
+  - Later thinning/weakening documented in: chapters/25610-26610.md, chapters/27160-27260.md, chapters/27260-27400.md, chapters/27500-27600.md, chapters/27900-28000.md, chapters/28000-28100.md, chapters/28450-28500.md
 
 - Space-lane piracy emergence remains pending: only after long-range civilian spaceflight becomes routine and station networks become dense, small-scale cargo predation should begin and then expand gradually.
 - Slow-growth threat curve remains pending: piracy should intensify over multiple periods through incremental adaptation (false transponder chains, contract-escort corruption, dockside intelligence markets, and salvage-law abuse), not by abrupt system-wide insurgency.
@@ -52,47 +59,6 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
   - Introduced in: chapters/28450-28500.md
   - Still pending in: chapters/28500-28550.md
 - Olympus Mission House conversion into a future Roman embassy on Mars remains pending.
-- Olympus Mission House becomes the active Roman embassy on Mars only after the conversion finishes and safe regular interplanetary travel exists and a Roman diplomatic mission can staff it.
-  - Introduced in: chapters/28450-28500.md
-  - Still pending in: chapters/28500-28550.md
-
-## Titan long-term chain
-
-- Titan long-term political endpoint remains pending: Titan should evolve into a durable mosaic of fiercely independent guild and technocratic polities (engineering-guild states, mining-guild states, trading-guild states, corporation-states, and technocracies) rather than a unified world government. Rivalries should persist, but selective external coordination should occur during major offworld-facing events. Titanian states should collectively resist durable outsider footholds on Titan while preserving internal sovereignty.
-- Titan long-term linguistic endpoint remains pending: Titan should not converge into one native language; local languages and dialects should remain primary within each state, while Common Titanian remains the inter-state diplomatic and coordination lingua franca.
-- Ancient Titan surface black-site reveal arc remains pending: a remote pre-Second-Breaking top-secret AI-development complex is rediscovered with evidence of a rogue AI takeover, machine subordination/expansion, murdered human personnel, and a failed Titanian full-ordnance security retake that was destroyed. A later coordinated assault by multiple private offworld heavy battalions should barely suppress the rebellion after rapid robotic warfare adaptation. The incident should have been buried before the Second Breaking, erased from public record, and never conclusively investigated; current rediscovery must preserve uncertainty regarding whether the AI was truly neutralised, survived, or escaped.
-- Titan-Luna asteroid-manipulation hint arc remains pending: investigation of recovered classified logs should show clear and uncontestable evidence that the rogue Titan AI attempted to alter the trajectory of the mobile-refinery asteroid (using remote mining drones) toward Luna, while never yielding definitive proof that it was the same asteroid that later produced the debris cluster or that the attempt fully succeeded. A joint multi-national investigation should converge on the most likely conclusion that it was the same object and that escalation might have produced a system-wide machine uprising. Most findings should remain classified; only small leaks should reach the public, with low trust and limited comprehension of the broader implications.
-
-## Europan coordination chain
-
-- Europan Vent Transit Charter remains pending as a partial-adoption rescue-integration arc: autonomous vent polities have adopted minimum interoperability for distress telemetry, emergency docking, and neutral relay logging without constitutional unification. Future chapters should track accession waves, refusals, enforcement incidents, and whether technical rescue federalism hardens into durable legal coordination.
-  - Introduced in: chapters/28500-28550.md
-
-## Luna archive chain
-
-- Great Library programme: the Roman Republic keeps building Great Libraries in multiple places across Terra, one on Luna, and in any other place it later extends to. These repositories preserve all publicly accessible accumulated knowledge needed to rebuild civilisation with the smallest possible loss of information, including history, censuses, laws, science, languages, blueprints, engineering designs, and similar foundational material. They also hold smaller, context-specific knowledge troves for places such as orbital stations and especially important monuments.
-- The Lunar Duplicate Mandate remains an active continuity requirement: every essential world-level record must exist in at least three locations (the Great Library of Luna, a separate Lunar provincial vault, and a Terran or orbital archive). Future chapters should continue this chain with duplication audits, integrity verification, refresh cycles for ageing media, and explicit handling of records such as food genetics, habitat designs, legal codes, medical data, pressure-system standards, debris tracking, and suit compatibility standards.
-  - Introduced in: chapters/28450-28500.md
-  - Still pending in: chapters/28500-28550.md
-- Great Library of Luna full build-out remains pending (only survivable core and partial operations complete by 28,500).
-  - Introduced in: chapters/27600-27700.md and expanded later
-  - Still pending in: chapters/28450-28500.md
-  - Still pending in: chapters/28500-28550.md
-
-## Custodian Nine and Resonance Lance chain
-
-- Custodian Nine remains an active but limited archive intelligence on Luna: it has specialised self-awareness, strong legal constraints, and access to demographic records, emergency correspondence, AI designs, industrial blueprints, medical archives, ecological vault catalogues, and late-lunar decline records. Its effective capabilities are constrained by local IRF conditions and should gradually unlock further analytical, indexing, and interface functions as the IRF fades. It should continue to surface sealed-vault discoveries, warn about dangerous historical technologies, and force ongoing choices between recovery, caution, and classification.
-  - Introduced in: chapters/27800-27900.md
-  - Continued in: chapters/27900-28000.md
-- Resonance Lance / IRF Lance remains unresolved: the archive has exposed incomplete blueprints and later a sealed vault with early components, but the physical system is still not fully reconstructed or released. Future events should continue to revolve around limited robotic review, political conflict over opening deeper vaults, leak crises, and the possibility that the device could still be studied, suppressed, or repurposed.
-  - Introduced in: chapters/27800-27900.md
-  - Continued in: chapters/27900-28000.md
-
-## Terra restoration chain
-
-- Terra Restituta. It began as separate restoration programmes (biosphere/lost species, monument restoration, ruined and buried-city recovery), then expands into planet-shape restoration toward a late Long Age approximation and is consolidated under Terra Restituta.
-  - Early separate programmes introduced in: chapters/27160-27260.md
-  - Consolidation/umbrella framing introduced in: chapters/27700-27800.md
   - Continued through: chapters/27800-27900.md, chapters/27900-28000.md, chapters/28300-28400.md, chapters/28450-28500.md, chapters/28500-28550.md
 - Terra Restituta remains an active multi-century programme; Orassia-unblocked works are a later phase, not its origin.
   - Later phase highlighted in: chapters/28450-28500.md
@@ -115,27 +81,6 @@ This file lists events that are still scheduled, recurring, or explicitly long-t
 - Equalisation remains a long-duration Terran infrastructure-balancing programme; accelerated phases occurred, but end-state parity is still pending.
   - Introduced in: chapters/28000-28100.md
   - Continued in: chapters/28100-28200.md, chapters/28450-28500.md, chapters/28500-28550.md
-- **MANDATORY: Terra Restituta Progress Report must be completed and published by Rome in one of the two chapters following 28,550.** The comprehensive report should assess and document:
-  - Geographic restoration progress: land reclaimed, coastlines restored, submerged cities recovered, water systems redirected, major landscape reshaping completed;
-  - Ecological status: species recovery success rates, gene diversity compared to late Long Age baseline, ecosystem stability, biodiversity metrics;
-  - Comparison to past eras: detailed quantitative and qualitative analysis of Terra's current state versus late Industrial Age (circa 27,100) and late Long Age (circa 10,000), emphasizing geographic similarity, ecological similarity, genetic diversity, overall planetary health, long-term civilisational sustainability, and resource-hosting capacity;
-  - Resource inventory: nonrenewable resource availability and depletion rates, renewable resource status, strategic material reserves;
-  - Ongoing major projects: Terra Restituta subprogrammes status (biosphere, monuments, littoral, cities, river systems), Italia Restituta progress, ecosystem corridors, reintroduction programmes;
-  - Future end-goal vision: long-term planetary vision for completed restoration, expected timeline, challenges, and what Terra will resemble when the programme reaches its defined end-state;
-  - Capacity assessment: Terra's ability to host sustained human civilisation long-term and its resilience for post-apocalyptic recovery should a future catastrophic event occur.
-  - Report framework: structured as a formal Roman Senate-approved scientific and policy document, with executive summary, technical annexes, cartographic evidence, and comparative data tables.
-  - **Introduced in: chapters/28500-28550.md (as planning/commission)**
-  - **Must be authored/completed in: one of chapters after 28,550 (MANDATORY)**
-- **MANDATORY: Green Transition and Natural Resources Preservation Doctrine must be adopted by Rome in the same chapter or immediately following the Terra Restituta Report.** This strategic policy shift establishes:
-  - Core principle: deliberate preservation and rationing of nonrenewable resources as a long-term continuity safeguard for future post-catastrophic recovery;
-  - Rationale: even with Terra Restituta's environmental restoration, future civilisations recovering from an apocalyptic scenario should have access to strategic nonrenewable resources (metals, fossil fuels, rare minerals, nuclear materials) rather than finding them fully depleted;
-  - Integration with Continuity Doctrine: the policy becomes an explicit component of the multicentury Redundancy/Continuity doctrine that began after the Unification War, elevating resource stewardship to a civilisational survival priority alongside technological fallback planning;
-  - Implementation framework: establish resource preservation zones, mining restrictions, strategic reserves, intergenerational resource governance, and long-term depletion forecasting;
-  - Civilisational framing: this shifts Roman ideology from "restore and use" toward "restore and preserve for unknown futures," explicitly planning for scenarios where Rome's heirs or post-collapse survivors must rebuild without modern knowledge or capacity;
-  - Senate adoption mechanism: Senate debate, adoption as formal doctrine, and binding legal framework (not merely advisory);
-  - Long-term governance: creation or expansion of existing continuity institutions to oversee resource stewardship across centuries;
-  - **Introduced in: one of chapters after 28,550 (MANDATORY)**
-  - **Must be formally adopted/legislated in: one of the two chapters following 28,550 (MANDATORY)**
 
 ## Roman continuity-regulation conflict chain
 
