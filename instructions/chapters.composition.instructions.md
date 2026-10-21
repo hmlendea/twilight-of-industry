@@ -47,6 +47,7 @@ applyTo: "chapters/**/*.md"
 - Reserve line-by-line separation for genuine structural boundaries (new argument, new time step, or new subsection), not for visual pacing.
 - Do not split a normal prose sentence across multiple lines, blank lines, or single-item bullet lists merely for emphasis. If the content reads as one sentence, keep it as one sentence in a paragraph. Use a bullet list only for a genuine multi-item list.
 - Keep terminology and named programmes consistent across the whole chapter.
+- Use title case for chapter, section, and subsection headings; apply displayed-year grouping to dated headings as well as prose.
 - Keep narration fully in-universe: do not make direct comparisons to the real world or use framing such as "historical Terra", "real-world", or similar external-reference wording.
 - When writing narrative content, always consider the local IRF conditions stated in the world-state table and their effects on events, technology, populations, and policies. Ensure all described activities, timelines, and infrastructure are compatible with the IRF state and limitations.
 - Whenever generating a place name is required, consider selecting one from: `https://raw.githubusercontent.com/hmlendea/stellaris-ui-star-names/refs/heads/master/ui-star-names/common/random_names/base/ui_stars_zzz_made-up.txt`.
@@ -60,7 +61,9 @@ applyTo: "chapters/**/*.md"
   - world-by-world status blocks (population, change, sovereignty, IRF, life expectancy, living standards, major developments);
   - optional `Newly practical` capability notes per world where relevant;
   - a final major-project status recap.
-- Each chapter must end with navigation lines that link to both the previous and subsequent chapter files.
+- Each chapter must end with navigation lines linking to the existing adjacent chapter files in reading order.
+- For the latest chapter only, when no subsequent file exists, use exactly `Next chapter: Not yet written.`; do not fabricate a destination or create an unrequested chapter. When a subsequent chapter is created, replace this terminal marker with its verified link in the same change.
+- For the earliest chapter only, when no previous file exists, use exactly `Previous chapter: None.`.
 - Use this exact format for the navigation lines:
   - `Previous chapter: [<previous chapter label>](<previous chapter filename>.md)`
   - `Next chapter: [<next chapter label>](<next chapter filename>.md)`

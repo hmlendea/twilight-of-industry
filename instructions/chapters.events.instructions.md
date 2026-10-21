@@ -26,3 +26,5 @@ applyTo: "chapters/**/*.md"
 - Avoid generic orbital labels such as `Orbital Recovery`; specify the orbital context (for example `Terran Orbital Debris Recovery`).
 - Use `The Lunar Great Library` instead of `The first Lunar Library disaster` style labels.
 - Keep recurring event arc names consistent across all chapter files.
+- Include named adopted policies and substantive institutional or crisis developments narrated in the chapter; audit completeness after composing the body.
+- Historical events may remain when substantively examined or advanced, but a passing contextual mention alone does not require inclusion. Metadata inclusion does not date the event to this chapter or establish a second foundation.

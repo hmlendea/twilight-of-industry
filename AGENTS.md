@@ -5,6 +5,8 @@ This repository keeps project-specific instructions in the [instructions](instru
 Apply these files:
 - [instructions/chapters.header.instructions.md](instructions/chapters.header.instructions.md)
 - [instructions/chapters.composition.instructions.md](instructions/chapters.composition.instructions.md)
+- [instructions/chapters.continuity.instructions.md](instructions/chapters.continuity.instructions.md)
+- [instructions/chapters.plausibility.instructions.md](instructions/chapters.plausibility.instructions.md)
 - [instructions/chapters.events.instructions.md](instructions/chapters.events.instructions.md)
 - [instructions/chapters.life-expectancy.instructions.md](instructions/chapters.life-expectancy.instructions.md)
 - [instructions/chapters.population.instructions.md](instructions/chapters.population.instructions.md)
